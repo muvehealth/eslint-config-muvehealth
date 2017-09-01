@@ -1,3 +1,5 @@
+# Not Published to npm yet
+
 # Muve Health's ESLint Config
 
 Based off of the [Airbnb config](https://github.com/airbnb/javascript) paired
