@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-muvehealth",
+  "version": "1.0.0",
+  "author": "Muve Health <sass@muvhealth.com>",
+  "description": "ESLint configuration based off of Airbnb's config paired with the flowtype plugin",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/muvehealth/eslint-config-muvehealth",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muvehealth/eslint-config-muvehealth"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "15.1.0",
+    "eslint-plugin-flowtype": "2.35.0",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-jsx-a11y": "5.1.1",
+    "eslint-plugin-react": "7.3.0"
+  },
+  "peerDependencies": {
+    "babel-eslint": ">= 7",
+    "eslint": ">= 4"
+  }
+}
