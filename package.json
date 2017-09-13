@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-muvehealth",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "author": "Muve Health <sass@muvhealth.com>",
   "description": "ESLint configuration based off of Airbnb's config paired with the flowtype plugin",
   "main": "index.js",

@@ -14,23 +14,10 @@ module.exports = {
     node: true
   },
   rules: {
-    "no-var": 0,
-    "no-param-reassign": 0,
-    "one-var": [2, { "var": "always" }],
-    "one-var-declaration-per-line": [2, "initializations"],
-    // semi: 0
-    // 'no-alert': 2,
-    // 'no-console': 2,
+    "semi": 0,
+    'no-alert': 2,
+    'no-console': 2,
     "react/jsx-filename-extension": 0,
-    // 'react/jsx-filename-extension': [
-    //   1,
-    //   {
-    //     extensions: [
-    //       '.js',
-    //       '.jsx'
-    //     ]
-    //   }
-    // ],
     'react/sort-comp': [
       'error',
       {
