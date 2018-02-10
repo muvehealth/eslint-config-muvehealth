@@ -11,14 +11,14 @@
     "url": "https://github.com/muvehealth/eslint-config-muvehealth"
   },
   "dependencies": {
+    "babel-eslint": "8.2.1",
     "eslint-config-airbnb": "16.1.0",
-    "eslint-plugin-flowtype": "2.41.0",
+    "eslint-plugin-flowtype": "2.43.0",
     "eslint-plugin-import": "2.8.0",
     "eslint-plugin-jsx-a11y": "6.0.3",
-    "eslint-plugin-react": "7.5.1"
+    "eslint-plugin-react": "7.6.1"
   },
   "peerDependencies": {
-    "babel-eslint": ">= 8",
     "eslint": ">= 4"
   }
 }

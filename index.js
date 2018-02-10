@@ -5,7 +5,8 @@ module.exports = {
     'plugin:flowtype/recommended'
   ],
   plugins: [
-    "flowtype"
+    "flowtype",
+    "import"
   ],
   env: {
     browser: true,
